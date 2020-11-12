@@ -1,5 +1,6 @@
 package it.unibo.oop.lab04.robot.test;
 
+import it.unibo.oop.lab04.robot.composable.*;
 /**
  * Utility class for testing composable robots
  * 

@@ -25,8 +25,8 @@ public class SimpleBankAccount implements BankAccount {
         }
     }
 
-    public void deposit(final int usrID, final double amount) {
-        this.transactionOp(usrID, amount);
+   public void deposit(final int usrID, final double amount) {
+         this.transactionOp(usrID, amount);
     }
 
     public void depositFromATM(final int usrID, final double amount) {
